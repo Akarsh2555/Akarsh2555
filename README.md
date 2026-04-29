@@ -1,24 +1,51 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                      HEADER SECTION                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<!-- Top vortex banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,40:0A0A2E,70:00D9FF,100:7C3AED&height=200&section=header&text=AKARSH&fontSize=90&fontColor=FFFFFF&fontAlignY=55&animation=twinkling&stroke=00D9FF&strokeWidth=2&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descSize=20&descAlignY=78&descColor=A78BFA"/>
+
 <div align="center">
 
-<!-- Dynamic Typing Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Akarsh+%F0%9F%91%8B;Full-Stack+%7C+Computer+Vision+%7C+CP+Enthusiast;Building+Things+That+Matter+%F0%9F%9A%80" alt="Typing SVG" />
+<!-- Avatar + Glowing Ring Effect -->
+<a href="https://github.com/Akarsh2555">
+  <img src="./avatar.jpeg"
+       width="160"
+       style="border-radius:50%; border: 4px solid #00D9FF; box-shadow: 0 0 30px #00D9FF;"
+       alt="Akarsh Avatar"/>
+</a>
+
+<br/><br/>
+
+<!-- Animated greeting with typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&width=720&height=50&lines=%3E+Hello%2C+World!+I'm+Akarsh+%F0%9F%91%8B;%3E+Full-Stack+Dev+%7C+CV+Engineer+%7C+CP+Addict;%3E+Turning+Coffee+%E2%98%95+into+Code+%F0%9F%9A%80;%3E+Building+Synapse+—+AI+Football+Analytics+%F0%9F%8F%88;%3E+500%2B+Problems+Solved+%E2%9A%94%EF%B8%8F+%7C+DTU+%7C+New+Delhi" alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Glowing separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <br/>
 
-<!-- Animated wave banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7C3AED&height=120&section=header&text=&animation=fadeIn"/>
+<!-- Core identity badges -->
+<a href="https://github.com/Akarsh2555">
+  <img src="https://img.shields.io/badge/⚡_ECE_@_DTU-New_Delhi-00D9FF?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/Akarsh2555/">
+  <img src="https://img.shields.io/badge/⚔️_500%2B_Problems-Solved-7C3AED?style=for-the-badge&logoColor=white" />
+</a>
+&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/🏆_1st_Place-INVICTUS_2025-22C55E?style=for-the-badge" />
+</a>
 
-<!-- Intro tagline -->
-<p>
-  <img src="https://img.shields.io/badge/B.Tech%20ECE-%40%20DTU-00D9FF?style=for-the-badge&logo=university&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/500%2B%20Problems%20Solved-LeetCode%20%7C%20Codeforces-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🏆%201st%20Place-INVICTUS%202025%20DeCyber-22C55E?style=for-the-badge" />
-</p>
+<br/><br/>
 
-<!-- Profile views -->
-<img src="https://komarev.com/ghpvc/?username=Akarsh2555&label=Profile+Views&color=00D9FF&style=flat-square" alt="profile views" />
+<!-- Profile views + followers -->
+<img src="https://komarev.com/ghpvc/?username=Akarsh2555&label=👁️+Profile+Views&color=00D9FF&style=flat-square" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/Akarsh2555?label=Followers&style=flat-square&color=7C3AED&labelColor=0D1117" />
 
 </div>
 
@@ -26,27 +53,84 @@
 
 ## 🧠 About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ```typescript
-const akarsh = {
-  education : "B.Tech ECE @ Delhi Technological University (DTU)",
-  location  : "New Delhi, India 🇮🇳",
-  building  : ["Synapse — AI Football Analytics", "Full-Stack SaaS Products"],
-  learning  : ["Advanced Computer Vision", "System Design", "DSA Mastery"],
-  strengths : ["Competitive Programming", "MERN Stack", "YOLOv8/v11 Models"],
-  leadership: "Vice President, Hostel Committee @ DTU",
-  motto     : "Write code that solves real problems. Ship fast. Iterate faster.",
+/**
+ * ╔══════════════════════════════════╗
+ * ║     AKARSH — SYSTEM ONLINE 🟢   ║
+ * ╚══════════════════════════════════╝
+ */
+const akarsh: Developer = {
+  education  : "B.Tech ECE @ DTU, New Delhi 🇮🇳",
+  currently  : {
+    building : "⚽ Synapse — AI Football Analytics",
+    learning : ["System Design", "CV Optimization"],
+    grinding : "LeetCode + Codeforces daily 🔥",
+  },
+  superpowers: [
+    "⚔️  Competitive Programming (C++)",
+    "🌐  Full-Stack Dev (MERN, Appwrite)",
+    "👁️  Computer Vision (YOLOv8 / v11)",
+  ],
+  leadership : "VP, Hostel Committee @ DTU 🏛️",
+  openTo     : ["Internships", "Hackathons", "OSS"],
+  motto      : "Ship it. Break it. Fix it. Repeat.",
 };
 ```
 
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="./avatar.jpeg" width="220" alt="Akarsh's Avatar" style="border-radius: 16px;"/>
+
+<br/><br/>
+
+> 🚀 **Engineering grad turning ideas**
+> **into shipped products since 2022**
+
 <br/>
 
-- 🎓 &nbsp;**Electronics & Communication Engineering** student at DTU, blending hardware intuition with software depth
-- 🏈 &nbsp;Building **Synapse** — a real-time football analytics platform using Computer Vision (YOLOv8/v11) for player tracking & sports intelligence
-- ⚔️ &nbsp;**500+ DSA Problems** solved across LeetCode & Codeforces — C++ is my weapon of choice
-- 🥇 &nbsp;**1st Place @ INVICTUS 2025 DeCyber** | Finalist @ Ecopreneurs 4.0 | Team Lead @ WIEgnite 2.0
-- 🌐 &nbsp;Full-Stack developer comfortable across the entire stack — React to Node to MongoDB to cloud
-- 📖 &nbsp;Currently deepening knowledge in **System Design** and **advanced CV model optimization**
-- 🤝 &nbsp;Open to collaborating on impactful open-source projects and innovative hackathon ideas
+![Coding](https://img.shields.io/badge/Status-Building%20in%20Public-22C55E?style=flat-square&logo=github)
+
+![Coffee](https://img.shields.io/badge/Fuel-Coffee%20%E2%98%95%20%2B%20C%2B%2B-7C3AED?style=flat-square)
+
+![Mode](https://img.shields.io/badge/Mode-Always%20Learning-00D9FF?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td>🎓</td>
+    <td><strong>ECE @ DTU</strong> — hardware intuition meets software depth</td>
+  </tr>
+  <tr>
+    <td>⚽</td>
+    <td>Building <strong>Synapse</strong> — broadcast-level football analytics with YOLOv8/v11 AI</td>
+  </tr>
+  <tr>
+    <td>⚔️</td>
+    <td><strong>500+ DSA problems</strong> solved on LeetCode & Codeforces — C++ is my weapon</td>
+  </tr>
+  <tr>
+    <td>🥇</td>
+    <td><strong>1st @ INVICTUS 2025 DeCyber</strong> · Finalist @ Ecopreneurs 4.0 · Team Lead @ WIEgnite 2.0</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td>Full-stack fluent: <strong>React → Node → MongoDB → Cloud</strong></td>
+  </tr>
+  <tr>
+    <td>🤝</td>
+    <td>Open to collaborating on bold open-source projects and hackathons</td>
+  </tr>
+</table>
 
 ---
 
